@@ -1,16 +1,3 @@
-#Ways to practice responsible development data - the online living document
-
-##About the book
-
-This book, organized around the data lifecycle, highlights responsible data concerns, recommendations, and real-world examples in the context of international development programming. It was collaboratively produced in three days at the Responsible Data Forum Booksprint by a group of 13 people. 
-
-![the data lifecycle](http://the-engine-room.github.io/rdf-primer/assets/1.6.cycle.png)
-
-Parts of the [Primer on Responsible Development Data](https://responsibledata.io/forums/primer-responsible-data-in-development/) were used and expanded upon in this book. 
-
-##Why a living document
-
-The collective knowledge of the 13 co-writers is impressive, but the real life challenges of dealing with data for development responsibly and ethically change with every new development challenge and technological breakthrough. We decided to open the book up for others to comment, propose changes, or fork it for their own purposes.
 
 ##How to contribute
 
