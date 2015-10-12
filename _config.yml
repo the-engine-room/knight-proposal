@@ -1,5 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-/title: '/knight-proposal'
+title: 'knight-proposal'
 subtitle: 'Responsible Data: If you are going to do data, do it responsibly!'
 
 # if you wish to integrate disqus on pages set your shortname here
