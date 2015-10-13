@@ -15,4 +15,5 @@ Now, we need your help to improve this idea. We have put the full text of the en
 Please add your input by midnight, October 20. We’ll take all the feedback and refine the proposal to submit on October 28. If you run into any problems, please contact Maya Richman. 
 
 Thank you for your input!
+
 - Danna, Kristin, Maya and the rest of the responsible data team
