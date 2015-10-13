@@ -5,4 +5,4 @@ category: Proposal
 published: true
 ---
 
-> New technologies are impacting how we work for social change; we want to make it easier for organisations to work with data responsibly.
+> We want to grow our community of responsible data problem solvers into a community of practice; to solve complex responsible data problems and streamline the process for others approaching these challenges; and facilitate communities to build resources that are functional, efficient and reach the growing group of interested organisations and initiatives.
